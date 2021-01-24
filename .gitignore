@@ -10,8 +10,12 @@
 
 # production
 /build
+/dist
 
 # misc
+
+README.md
+.eslintcache
 .DS_Store
 .env.local
 .env.development.local
